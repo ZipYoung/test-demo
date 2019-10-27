@@ -1,0 +1,13 @@
+/root/test-demo/src/main/java/com/leaveword/domain/User.java
+/root/test-demo/src/main/java/com/leaveword/service/UserServiceImpl.java
+/root/test-demo/src/main/java/com/leaveword/service/WordService.java
+/root/test-demo/src/main/java/com/leaveword/utils/CommonTools.java
+/root/test-demo/src/main/java/com/leaveword/repository/UserRepository.java
+/root/test-demo/src/main/java/com/leaveword/controller/WordController.java
+/root/test-demo/src/main/java/com/leaveword/service/WordServiceImpl.java
+/root/test-demo/src/main/java/com/leaveword/utils/Response.java
+/root/test-demo/src/main/java/com/leaveword/DemoApplication.java
+/root/test-demo/src/main/java/com/leaveword/service/UserService.java
+/root/test-demo/src/main/java/com/leaveword/controller/UserController.java
+/root/test-demo/src/main/java/com/leaveword/repository/WordRepository.java
+/root/test-demo/src/main/java/com/leaveword/domain/Word.java
